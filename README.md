@@ -1,3 +1,3 @@
-# Web BBC con HTML CSS
+# Starting javascript
 
-Este es un proyecto usando HTML y CSS
+Este es un proyecto usando JavaScript
